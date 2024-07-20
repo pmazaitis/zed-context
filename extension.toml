@@ -1,0 +1,13 @@
+id = "context"
+name = "ConTeXt"
+version = "0.6.0"
+schema_version = 1
+authors = ["Paul Mazaitis <paul@mazaitis.org>"]
+description = "Zed language support for ConTeXt."
+repository = "https://github.com/pmazaitis/zed-context"
+
+[grammars.context]
+repository = "https://github.com/pmazaitis/tree-sitter-context"
+commit = "4522ee13d58373f79d163df2baef80ea66908a8e"
+
+
