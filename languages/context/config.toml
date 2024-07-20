@@ -1,0 +1,5 @@
+
+name = "CONTEXT"
+grammar = "context"
+path_suffixes = ["tex", "lmtx", "ctx"]
+prettier_parser_name = "ConTeXt"
